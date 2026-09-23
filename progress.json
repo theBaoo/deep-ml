@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T03:55:16.062Z",
+  "generated_at": "2026-09-23T08:31:51.563Z",
   "items": {
     "problem:825": {
       "kind": "problem",
@@ -13,6 +13,19 @@
       "last_pushed_at": "2026-09-20T03:55:11.525Z",
       "language": "python",
       "lines": 66
+    },
+    "problem:1342": {
+      "kind": "problem",
+      "id": "1342",
+      "title": "Trade Compute for Memory with Gradient Checkpointing",
+      "difficulty": "hard",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1342",
+      "path": "problems/1342-trade-compute-for-memory-with-gradient-checkpointing",
+      "first_solved_at": "2026-09-23T08:31:42.261Z",
+      "last_pushed_at": "2026-09-23T08:31:42.261Z",
+      "language": "python",
+      "lines": 16
     }
   }
 }
