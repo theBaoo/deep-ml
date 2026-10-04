@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T10:52:17.621Z",
+  "generated_at": "2026-10-04T13:17:27.904Z",
   "items": {
     "problem:825": {
       "kind": "problem",
@@ -117,6 +117,19 @@
       "last_pushed_at": "2026-10-03T10:52:16.873Z",
       "language": "python",
       "lines": 19
+    },
+    "problem:623": {
+      "kind": "problem",
+      "id": "623",
+      "title": "Resource Dilation Factor for Scheduling",
+      "difficulty": "medium",
+      "category": "Reinforcement Learning",
+      "url": "https://www.deep-ml.com/problems/623",
+      "path": "problems/0623-resource-dilation-factor-for-scheduling",
+      "first_solved_at": "2026-10-04T13:17:26.723Z",
+      "last_pushed_at": "2026-10-04T13:17:26.723Z",
+      "language": "python",
+      "lines": 145
     }
   }
 }

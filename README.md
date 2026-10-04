@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**9** solved · 9 problems · 0 labs · 0 math
+**10** solved · 10 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -20,6 +20,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement a Custom `autograd.Function`](https://www.deep-ml.com/problems/903) | medium | 2026-10-01 | [solution](problems/0903-implement-a-custom-autograd-function) |
 | [Implement Focal Loss](https://www.deep-ml.com/problems/915) | medium | 2026-10-01 | [solution](problems/0915-implement-focal-loss) |
 | [Poisson Deviance and Overdispersion](https://www.deep-ml.com/problems/1367) | medium | 2026-09-29 | [solution](problems/1367-poisson-deviance-and-overdispersion) |
+| [Resource Dilation Factor for Scheduling](https://www.deep-ml.com/problems/623) | medium | 2026-10-04 | [solution](problems/0623-resource-dilation-factor-for-scheduling) |
 | [Trade Compute for Memory with Gradient Checkpointing](https://www.deep-ml.com/problems/1342) | hard | 2026-09-23 | [solution](problems/1342-trade-compute-for-memory-with-gradient-checkpointing) |
 
 ---
